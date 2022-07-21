@@ -1,5 +1,5 @@
 
-<a href="https://github.com/lp0int/"><img align="right" src="https://github-readme-stats.vercel.app/api?username=lp0int&count_private=true&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&theme=codeSTACKr&hide_title=false" /></a>
+<a href="https://github.com/Crazy-MT/"><img align="right" src="https://github-readme-stats.vercel.app/api?username=Crazy-MT&count_private=true&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&theme=codeSTACKr&hide_title=false" /></a>
 ### Hi there 👋
 
 - :orange_book: Focusing on Android & Flutter
@@ -7,7 +7,7 @@
 - :technologist: Random-oriented programming
 
 <!--
-**lp0int/lp0int** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Crazy-MT/Crazy-MT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
